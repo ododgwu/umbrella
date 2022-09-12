@@ -1,0 +1,24 @@
+// EVENTS
+
+.past {
+  text-align: center;
+  margin-top: 10rem;
+  display: flex;
+  flex-direction: column;
+
+  .events {
+    display: flex;
+    flex-direction: column;
+
+    .event {
+      text-align: center;
+      box-shadow: 0 0 10px black;
+      margin: 1.5rem;
+
+      P {
+        width: 50%;
+        margin: 10px auto;
+      }
+    }
+  }
+}

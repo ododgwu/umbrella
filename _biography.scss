@@ -1,0 +1,18 @@
+.middle {
+    width: 70%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: 15rem auto 7rem;
+
+    .biography1 {
+        text-align: center;
+        margin: 4rem auto;
+
+        p {
+            font-size: 20px;
+            font-weight: 500;
+            margin-top: 2rem;
+        }
+    }
+}
